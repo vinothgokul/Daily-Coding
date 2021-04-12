@@ -12,4 +12,5 @@ Day 11 - Points inside Rectangle <br/>
 Day 12 - Pattern Printing with a Number <br/>
 Day 13 - Time Conversion <br/>
 Day 14 - Angry Professor <br/>
-Day 15 - Zoo Design
+Day 15 - Zoo Design <br/>
+Day 16 - Extract Vowels from Pattern
