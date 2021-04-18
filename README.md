@@ -18,4 +18,5 @@ Day 17 - No of Digits in a Range <br/>
 Day 18 - Largest Odd Number<br/>
 Day 19 - Substitution Cipher <br/>
 Day 20 - Queen Problem <br/>
-Day 21 - Run Length Encoding
+Day 21 - Run Length Encoding <br/>
+Day 22 - Allocation Problem
