@@ -22,4 +22,5 @@ Day 21 - Run Length Encoding <br/>
 Day 22 - Allocation Problem <br/>
 Day 23 - Adjust Time <br/>
 Day 24 - Visit Respective Row and Column <br/>
-Day 25 - Covid Spread
+Day 25 - Covid Spread <br/>
+Day 26 - Classroom Seating
