@@ -13,8 +13,6 @@ int main()
         flag=0;
         for(int counter=0;counter<noOfChairs;counter++)
         {
-            if(chairs[counter]==0)
-                temp[counter]=0;
                 
             if((counter==0 && chairs[counter]==2)&&(chairs[counter+1]==1))
             {
@@ -50,7 +48,7 @@ int main()
     }while(1);
     
     for(int counter=0;counter<noOfChairs;counter++)
-        if(temp[counter]==1)
+        if(chairs[counter]==1)
             noOfPerson++;
             
     printf("%d %d",noOfDays+1,noOfPerson);
