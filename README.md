@@ -27,4 +27,5 @@ Day 26 - Classroom Seating <br/>
 Day 27 - Interlaced String in Function <br/>
 Day 28 - Concrete and Glass Slab <br/>
 Day 29 - Diamond Pattern <br/>
-Day 30 - Print Without Format Specifier
+Day 30 - Print Without Format Specifier <br/>
+Day 31 - Print Colors Addition
