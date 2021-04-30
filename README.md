@@ -29,4 +29,5 @@ Day 28 - Concrete and Glass Slab <br/>
 Day 29 - Diamond Pattern <br/>
 Day 30 - Print Without Format Specifier <br/>
 Day 31 - Print Colors Addition <br/>
-Day 32 - Unfolded Cube Pattern
+Day 32 - Unfolded Cube Pattern <br/>
+Day 33 - Cricket Tournament Schedule
