@@ -30,4 +30,5 @@ Day 29 - Diamond Pattern <br/>
 Day 30 - Print Without Format Specifier <br/>
 Day 31 - Print Colors Addition <br/>
 Day 32 - Unfolded Cube Pattern <br/>
-Day 33 - Cricket Tournament Schedule
+Day 33 - Cricket Tournament Schedule <br/>
+Day 34 - Chess Board Pattern
