@@ -32,4 +32,5 @@ Day 31 - Print Colors Addition <br/>
 Day 32 - Unfolded Cube Pattern <br/>
 Day 33 - Cricket Tournament Schedule <br/>
 Day 34 - Chess Board Pattern <br/>
-Day 35 - Function Redirect
+Day 35 - Function Redirect <br/>
+Day 36 - Search String - Matrix Edges
