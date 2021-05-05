@@ -34,4 +34,5 @@ Day 33 - Cricket Tournament Schedule <br/>
 Day 34 - Chess Board Pattern <br/>
 Day 35 - Function Redirect <br/>
 Day 36 - Search String - Matrix Edges <br/>
-Day 37 - Sort Digits in Sub Matrices
+Day 37 - Sort Digits in Sub Matrices <br/>
+Day 38 - Compare without Comparison Operator
