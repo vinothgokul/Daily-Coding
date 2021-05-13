@@ -41,4 +41,5 @@ Day 40 - Function Merge Even <br/>
 Day 41 - Student Rank <br>
 Day 42 - Function Print CSV <br/>
 Day 43 - Find Time - Analog Clock <br/>
-Day 44 - Rotate Corners Anticlockwise 
+Day 44 - Rotate Corners Anticlockwise <br/>
+Day 45 - Number Pattern
