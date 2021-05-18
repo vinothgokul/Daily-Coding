@@ -46,4 +46,5 @@ Day 45 - Number Pattern <br/>
 Day 46 - Function Get Three or Four <br>
 Day 47 - String Decryption <br>
 Day 48 - Print Without Format Specifier <br>
-Day 49 - Hills Number or Not
+Day 49 - Hills Number or Not <br>
+Day 50 - Remainder of 101
