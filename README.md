@@ -48,4 +48,5 @@ Day 47 - String Decryption <br>
 Day 48 - Print Without Format Specifier <br>
 Day 49 - Hills Number or Not <br>
 Day 50 - Remainder of 101 <br>
-Day 51 - Divisible Fibonacci
+Day 51 - Divisible Fibonacci <br>
+Day 52 - Matrix With Star
