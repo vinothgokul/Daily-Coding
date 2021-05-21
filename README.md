@@ -49,4 +49,5 @@ Day 48 - Print Without Format Specifier <br>
 Day 49 - Hills Number or Not <br>
 Day 50 - Remainder of 101 <br>
 Day 51 - Divisible Fibonacci <br>
-Day 52 - Matrix With Star
+Day 52 - Matrix With Star <br>
+Day 53 - Function GetArrayFromMatrix
