@@ -53,4 +53,5 @@ Day 52 - Matrix With Star <br>
 Day 53 - Function GetArrayFromMatrix  <br>
 Day 54 - Function GetUniqueUnitDigits <br>
 Day 55 - Longest Common Middle Substring <br>
-Day 56 - Triangle
+Day 56 - Triangle <br>
+Day 57 - Number Pattern 2
