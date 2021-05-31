@@ -56,4 +56,5 @@ Day 55 - Longest Common Middle Substring <br>
 Day 56 - Triangle <br>
 Day 57 - Number Pattern 2 <br>
 Day 58 - Token Pasting Operator <br>
-Day 59 - Recursive Digit Sum
+Day 59 - Recursive Digit Sum <br>
+Day 60 - Function GetMoneySpend
