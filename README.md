@@ -57,4 +57,5 @@ Day 56 - Triangle <br>
 Day 57 - Number Pattern 2 <br>
 Day 58 - Token Pasting Operator <br>
 Day 59 - Recursive Digit Sum <br>
-Day 60 - Function GetMoneySpend
+Day 60 - Function GetMoneySpend <br>
+Day 61 - sizeof
