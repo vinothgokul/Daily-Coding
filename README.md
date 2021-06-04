@@ -60,4 +60,5 @@ Day 59 - Recursive Digit Sum <br>
 Day 60 - Function GetMoneySpend <br>
 Day 61 - sizeof Macro <br>
 Day 62 - Factorial Trailing Zeroes <br>
-Day 63 - Digit Frequency
+Day 63 - Digit Frequency <br>
+Day 64 - Prime Game
