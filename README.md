@@ -62,4 +62,5 @@ Day 61 - sizeof Macro <br>
 Day 62 - Factorial Trailing Zeroes <br>
 Day 63 - Digit Frequency <br>
 Day 64 - Prime Game <br>
-Day 65 - Virus Outbreak
+Day 65 - Virus Outbreak <br>
+Day 66 - Compare Triplets
