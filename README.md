@@ -63,4 +63,5 @@ Day 62 - Factorial Trailing Zeroes <br>
 Day 63 - Digit Frequency <br>
 Day 64 - Prime Game <br>
 Day 65 - Virus Outbreak <br>
-Day 66 - Compare Triplets
+Day 66 - Compare Triplets <br>
+Day 67 - Recursive Digit Sum
