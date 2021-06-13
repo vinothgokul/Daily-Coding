@@ -69,4 +69,5 @@ Day 68 - Subarray Division <br>
 Day 69 - Day of Programmer <br>
 Day 70 - Very Long Sum <br>
 Day 71 - Breaking the Record <br>
-Day 72 - Apple and Orange
+Day 72 - Apple and Orange <br>
+Day 73 - Plus Minus
