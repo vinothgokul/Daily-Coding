@@ -70,4 +70,5 @@ Day 69 - Day of Programmer <br>
 Day 70 - Very Long Sum <br>
 Day 71 - Breaking the Record <br>
 Day 72 - Apple and Orange <br>
-Day 73 - Plus Minus
+Day 73 - Plus Minus <br>
+Day 74 - Staircase
