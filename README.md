@@ -71,4 +71,5 @@ Day 70 - Very Long Sum <br>
 Day 71 - Breaking the Record <br>
 Day 72 - Apple and Orange <br>
 Day 73 - Plus Minus <br>
-Day 74 - Staircase
+Day 74 - Staircase <br>
+Day 75 - Number Line Jumps
