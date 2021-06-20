@@ -74,4 +74,5 @@ Day 73 - Plus Minus <br>
 Day 74 - Staircase <br>
 Day 75 - Number Line Jumps <br>
 Day 76 - Birthday Candles <br>
-Day 77 - Divisible Pair Sum
+Day 77 - Divisible Pair Sum <br>
+Day 78 - Hurdle Race
